@@ -10,7 +10,7 @@
 	</form>
 	<?php 
 		if(isset($_GET['action']) && $_GET['action'] == 'success') {
-			echo "saved successfully";
+			echo "customer saved successfully";
 		}
 	?>
 </body>
